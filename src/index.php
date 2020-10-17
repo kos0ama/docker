@@ -1,3 +1,3 @@
 <?php 
-echo "fuga";
+echo "Hello World2";
 ?>
